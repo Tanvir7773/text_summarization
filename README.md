@@ -64,7 +64,7 @@ Visit the live application: [AI Text Summarizer](https://your-railway-app.railwa
    ```
 
 5. **Open your browser**
-   Visit `http://localhost:5000`
+   Visit `[https://textsummarization-production.up.railway.app/]'
 
 ## 🎯 Usage
 
