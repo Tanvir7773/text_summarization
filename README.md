@@ -31,7 +31,7 @@ A beautiful, modern web application that uses advanced AI to transform long text
 
 ## 🚀 Live Demo
 
-Visit the live application: [AI Text Summarizer](https://your-railway-app.railway.app)
+Visit the live application: [AI Text Summarizer](https://textsummarization-production.up.railway.app/)
 
 ## 📋 Prerequisites
 
@@ -64,7 +64,7 @@ Visit the live application: [AI Text Summarizer](https://your-railway-app.railwa
    ```
 
 5. **Open your browser**
-   Visit `[https://textsummarization-production.up.railway.app/]'
+   Visit `[https://localhost.5000]
 
 ## 🎯 Usage
 
